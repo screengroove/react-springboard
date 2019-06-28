@@ -10,6 +10,7 @@ $ yarn start
 ## Featuring
 
 - Styled Components
+- Base `GlobalStyle` (normalized)
 - Parcel bundler
 - mobx-state-tree
 - react-router

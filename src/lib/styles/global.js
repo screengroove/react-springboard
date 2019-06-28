@@ -10,6 +10,7 @@ const GlobalStyle = createGlobalStyle`
     body {
       margin: 0;
       background: #e6e6e6;
+      color: #222;
       overflow: hidden;
       font-family: 'Roboto', sans-serif;
     }
