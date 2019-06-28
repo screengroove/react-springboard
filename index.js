@@ -1,13 +1,13 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import App from './src/App'
+import React from 'react';
+import ReactDOM from 'react-dom';
 import WebFont from 'webfontloader';
+import App from './src/App';
 
 WebFont.load({
   google: {
-    families: ['Titillium Web:300,400,700', 'sans-serif']
-  }
+    families: ['Roboto:400,700', 'sans-serif'],
+  },
 });
 
-var mountNode = document.getElementById("app");
+const mountNode = document.getElementById('app');
 ReactDOM.render(<App />, mountNode);

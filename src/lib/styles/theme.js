@@ -1,10 +1,6 @@
 export default {
-  white: "#fff",
-  black: "#4A4A4A",
-  border: "hsl(0,0%,80%)",
-  input: "#444",
-  font: {
-    default: "Helvetica-Normal",
-    bold: "Helvetica-Bold"
-  }
+  white: '#f7f7f7',
+  black: '#222',
+  border: 'hsl(0,0%,80%)',
+  input: '#444',
 };

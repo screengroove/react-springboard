@@ -1,5 +1,5 @@
-import { createGlobalStyle } from "styled-components";
-import { normalize } from "polished";
+import { createGlobalStyle } from 'styled-components';
+import { normalize } from 'polished';
 
 const GlobalStyle = createGlobalStyle`
 
@@ -11,7 +11,7 @@ const GlobalStyle = createGlobalStyle`
       margin: 0;
       background: #e6e6e6;
       overflow: hidden;
-      font-family: 'Titillium Web';
+      font-family: 'Roboto', sans-serif;
     }
     
     *, *:before, *:after {

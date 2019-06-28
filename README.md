@@ -7,7 +7,7 @@ $ yarn
 $ yarn start
 ```
 
-# Featuring
+## Featuring
 
 - Styled Components
 - Parcel bundler
